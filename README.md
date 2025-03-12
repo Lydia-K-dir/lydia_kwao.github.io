@@ -1,10 +1,10 @@
 # Data Analyst
 
-[Email](lmkwao122@gmail.com)
+[Email](https://lmkwao122@gmail.com)
 
 [Phone](+233240080460)
 
-[Github Username](Lydia-K-dir)
+[Github Username](https://Lydia-K-dir)
 
 [LinkedIn](https://www.linkedin.com/in/lydia-kwao112/)
 
