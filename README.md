@@ -1,12 +1,14 @@
 # Data Analyst
 
-[Email](https://lmkwao122@gmail.com)
+## Connect with Me
 
-[Phone](+233240080460)
+📞 Phone: [+233240080460](tel:+233240080460)  
+✉️ Email: [lmkwao122@gmail.com](mailto:lmkwao122@gmail.com)  
 
-[Github Username](https://Lydia-K-dir)
+🔗 LinkedIn: [Lydia Kwao](https://www.linkedin.com/in/lydia-kwao112/)  
 
-[LinkedIn](https://www.linkedin.com/in/lydia-kwao112/)
+💻 GitHub: [Lydia-K-dir](https://github.com/Lydia-K-dir)  
+
 
 ### Education
 B.Sc., Nutrition and Food science | The University of Ghana (September 2023)
