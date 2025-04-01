@@ -9,7 +9,7 @@
 💻 GitHub: [Lydia-K-dir](https://github.com/Lydia-K-dir)
 
 ## About
-Lydia is a results-driven Data Analyst with a strong foundation in food science and expertise in data collection, cleaning, and visualization. Proficient in Python, SQL, Excel, and Power BI, with a keen ability to identify trends and generate actionable insights. Skilled in statistical analysis, research, and reporting to enhance business efficiency and decision-making. Experienced in optimizing processes and problem-solving, with a collaborative approach to teamwork. Passionate about leveraging data analytics to drive innovation and improve outcomes, particularly in the food industry and related sectors.
+I am a results-driven Data Analyst with expertise in business intelligence, virtual assistance, and data visualization using Python, SQL, Excel, and Power BI. I specialize in data collection, cleaning, and trend analysis to optimize processes and enhance decision-making. Passionate about leveraging data analytics, I provide actionable insights that drive efficiency and innovation across various sectors. With strong problem-solving and collaboration skills, I translate complex data into strategic solutions that maximize impact.
 
 ### Education
 B.Sc., Nutrition and Food science | The University of Ghana (September 2023)
