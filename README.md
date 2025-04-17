@@ -29,6 +29,5 @@ Generation Ghana (January 2025 - Present)
 ## Projects
 ### Walmart Business Project
 This project analyzes Walmart's sales data using MySQL and Python to uncover insights on customer behavior, branch performance, and revenue trends. Python was used for data cleaning to ensure accuracy and consistency before analysis. The SQL queries examine transaction volumes, payment preferences, sales by time shifts, and top-rated product categories. The project also identifies the busiest days per branch, profitability by category, and branches with the highest revenue decline from 2022 to 2023. These insights support data-driven strategies to boost sales, enhance customer experience, and optimize branch operations.
-
 [Project information](https://github.com/Lydia-K-dir/walmart_sales) 
 
