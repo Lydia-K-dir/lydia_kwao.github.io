@@ -11,8 +11,9 @@
 ## About
 I am a results-driven Data Analyst with expertise in business intelligence, virtual assistance, and data visualization using Python, SQL, Excel, and Power BI. I specialize in data collection, cleaning, and trend analysis to optimize processes and enhance decision-making. Passionate about leveraging data analytics, I provide actionable insights that drive efficiency and innovation across various sectors. With strong problem-solving and collaboration skills, I translate complex data into strategic solutions that maximize impact.
 
-## Education
+## Education and Certifications
 B.Sc., Nutrition and Food science | The University of Ghana (September 2023)
+Generation Data Analyst Graduate
 
 ## Technical Skills: 
 Python, SQL, Excel, PowerBI
