@@ -14,7 +14,7 @@ I am a results-driven Data Analyst with expertise in business intelligence, virt
 ## Education and Certifications
 B.Sc., Nutrition and Food science | The University of Ghana (September 2023)
 
-Generation Data Analyst Graduate
+Generation Data Analyst Graduate April 2025
 
 ## Technical Skills: 
 Python, SQL, Excel, PowerBI
