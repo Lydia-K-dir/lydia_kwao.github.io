@@ -3,5 +3,5 @@ logo: assets/0G7A7801[1].jpg
 show_downloads: false
 theme: jekyll-theme-minimal
 images: 
-  - assets/images/image1.jpg
+  - https://github.com/Lydia-K-dir/lydia_kwao.github.io/blob/main/assests/Monthly_revenue_trend.png
   - assets/images/image2.jpg
