@@ -29,5 +29,19 @@ Generation Ghana (January 2025 - Present)
 - Gained proficiency in presenting complex data insights to stakeholders with clarity and confidence.  
 
 ## Projects
-![Project](https://github.com/Lydia-K-dir/lydia_kwao.github.io/blob/main/assests/Monthly_revenue_trend.png)
+### Objective:
+Provide data-driven insights to support StreamFlix’s transition from a free to paid subscription model.
+
+### Key Business Questions:
+What drives user engagement?
+Which genres and devices attract paid users?
+Who are the ideal candidates for conversion?
+
+### Expected Outcome:
+Actionable recommendations to increase subscriptions
+
+### Insights and Recommendations
+
+
+
 
