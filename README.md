@@ -29,7 +29,9 @@ Generation Ghana (January 2025 - Present)
 - Gained proficiency in presenting complex data insights to stakeholders with clarity and confidence.  
 
 ## Projects
-### Objective:
+## StreamFlix Business Insights
+
+### Project Objective:
 Provide data-driven insights to support StreamFlix’s transition from a free to paid subscription model.
 
 ### Key Business Questions:
@@ -41,6 +43,7 @@ Who are the ideal candidates for conversion?
 Actionable recommendations to increase subscriptions
 
 ### Insights and Recommendations
+
 
 
 
