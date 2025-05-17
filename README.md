@@ -43,7 +43,7 @@ Who are the ideal candidates for conversion?
 Actionable recommendations to increase subscriptions
 
 ### Insights and Recommendations
-[Demographic Analysis](
+[Demographic Analysis](https://github.com/Lydia-K-dir/lydia_kwao.github.io/blob/main/assests/Screenshot%202025-05-17%20175110.png)
 
 
 
