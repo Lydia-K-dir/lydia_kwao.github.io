@@ -44,6 +44,8 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 
 ### Insights and Recommendations
 ![image](assests/Demographic Analysis 1.jpeg)
+![image](assests/Demographic Analysis 1.jpeg)
+
 
 
 
