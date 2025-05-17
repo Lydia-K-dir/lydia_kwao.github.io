@@ -43,7 +43,7 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 - Actionable recommendations to increase subscriptions
 
 ### Insights and Recommendations
-!Demographic Analysis (/assests/Demographic Analysis 1.jpeg)
+![image]()
 
 
 
