@@ -35,15 +35,15 @@ Generation Ghana (January 2025 - Present)
 Provide data-driven insights to support StreamFlix’s transition from a free to paid subscription model.
 
 ### Key Business Questions:
-What drives user engagement?
-Which genres and devices attract paid users?
-Who are the ideal candidates for conversion?
+- What drives user engagement?
+- Which genres and devices attract paid users?
+- Who are the ideal candidates for conversion?
 
 ### Expected Outcome:
-Actionable recommendations to increase subscriptions
+- Actionable recommendations to increase subscriptions
 
 ### Insights and Recommendations
-[Demographic Analysis]()
+[Demographic Analysis](/assests/Demographic%20Analysis.png)
 
 
 
