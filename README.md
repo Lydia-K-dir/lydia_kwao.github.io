@@ -49,7 +49,7 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 ### Recommendations
 - Focus conversion on ages 21–50 
 
-- Female-focused campaigns to grow paying users
+- Invest in female-focused campaigns to grow paying users
 
 - Use algorithms to recommend movies based on history, ratings and demographics.
 
@@ -59,7 +59,7 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 
 - Tailor content recommendations and push notifications based on device usage habits.For example, mobile users might prefer bite-sized or short-form content.
 
-- Offer time-limited free trials of premium features to users who rate highly.Use this as a gateway to upsell to a paid subscription.
+- Offer time-limited free trials of premium features to users who rate highly engaged.Use this as a gateway to upsell to a paid subscription.
   
 - Consider creating tailored content or offers per region, especially for your high-performing countries.
 
