@@ -50,6 +50,10 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 
 ![image](assests/3.png)
 
+![image](assests/Screenshot 2025-05-17 235642.png)
+
+
+
 
 
 
