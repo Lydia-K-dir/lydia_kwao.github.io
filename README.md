@@ -42,7 +42,7 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 ### Expected Outcome:
 - Actionable recommendations to increase subscriptions
 
-### Insights and Recommendations
+### Business Insights
 
 ![image](assests/Screenshot 2025-05-18 110337.png)
 
