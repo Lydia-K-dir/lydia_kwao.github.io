@@ -44,17 +44,8 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 
 ### Insights and Recommendations
 
-![image](assests/Demographic Analysis 1.jpeg)
+![image](assests/Screenshot 2025-05-18 110337.png)
 
-![image](assests/2.png)
-
-![image](assests/3.png)
-
-![image](assests/Screenshot 2025-05-17 235642.png)
-
-![image](assests/Screenshot 2025-05-18 001150.png)
-
-[Find Additional Project Information and Documents here](https://github.com/Lydia-K-dir/StreamFlix-Subscription-Transition)
 
 
 
