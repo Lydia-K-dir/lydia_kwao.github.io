@@ -55,7 +55,7 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 
 - Focus on converting high and medium engagement free users—they’re active but not yet paying.
 
-- Allow users to seamlessly switch between devices without losing their place to encourage longer watching ours.
+- Allow users to seamlessly switch between devices without losing their place to encourage longer watching hours.
 
 - Tailor content recommendations and push notifications based on device usage habits.For example, mobile users might prefer bite-sized or short-form content.
 
