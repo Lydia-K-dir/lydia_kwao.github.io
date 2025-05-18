@@ -44,7 +44,7 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 
 ### Business Insights
 
-![image](assests/Screenshot 2025-05-18 115206.png)
+![image](assests/Screenshot 2025-05-18 121258.png)
 
 ### Recommendations
 - Focus conversion on ages 21–50 
