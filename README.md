@@ -54,7 +54,7 @@ Provide data-driven insights to support StreamFlix’s transition from a free to
 
 ![image](assests/Screenshot 2025-05-18 001150.png)
 
-Project Information and Documents [https://github.com/Lydia-K-dir/StreamFlix-Subscription-Transition]
+[Project Information and Documents](https://github.com/Lydia-K-dir/StreamFlix-Subscription-Transition)
 
 
 
